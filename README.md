@@ -1,18 +1,73 @@
-# Hi, I'm Aswin Udhayarajan
-🎓 Fourth-year Computer Science student sharing my journey and learnings in tech<br>🏫 Studying at IFET College of Engineering, Villupuram<br>💡 I create apps and websites whenever I spot a problem that needs solving<br>🔍 Always curious to explore new technologies and improve my skills<br>🛠️ I believe in learning by doing and building projects that make an impact
+<!-- 🌟 ASWIN UDHAYARAJAN - ADVANCED GITHUB README 🌟 -->
+<div align="center">
 
+<!-- Animated Typing Intro -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FFA6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aswin+Udhayarajan!;CSE+Student+%7C+App+%26+Web+Developer;AI+%7C+RAG+%7C+LangChain+Explorer;Always+Learning+Something+New!" alt="Typing SVG" />
+</h1>
 
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ReaNzQhF) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswin-udhayarajan-623653311) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@udhayarajanaswn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aswinabi9597@gmail.com) 
+<!-- Glowing Divider -->
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="snake animation"/>
 
-# 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=udhayarajan4562&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=udhayarajan4562&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=udhayarajan4562&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  🎓 Fourth-year Computer Science student sharing my journey and learnings in tech<br>
+  🏫 Studying at <b>IFET College of Engineering, Villupuram</b><br>
+  💡 I create apps and websites whenever I spot a problem that needs solving<br>
+  🔍 Always curious to explore new technologies and improve my skills<br>
+  🛠️ I believe in learning by doing and building projects that make an impact
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=udhayarajan-a-2005&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://discord.gg/ReaNzQhF"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+  <a href="https://linkedin.com/in/aswin-udhayarajan-623653311"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://x.com/@udhayarajanaswn"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="mailto:aswinabi9597@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,express,html,css,vite,vercel,supabase,postman,anaconda,gcp,notion,jupyter" /><br>
+
+---
+
+## 🤖 AI related Tech Stack
+
+  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge&logo=semanticweb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udhayarajan4562&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=udhayarajan4562&theme=radical&hide_border=true&background=0D1117" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udhayarajan4562&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFAA" height="160"/>
+</div>
+
+## 🌀 Visitor Counter  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=udhayarajan4562&label=Profile%20Views&color=00FFAA&style=for-the-badge" alt="Profile Views Counter" />
+</div>
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FFAA&section=footer"/>
+</p>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
