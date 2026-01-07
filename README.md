@@ -47,6 +47,8 @@
   <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DoE-0F172A?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic%20Workflow-020617?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ---
